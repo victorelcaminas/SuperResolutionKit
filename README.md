@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/SuperResolutionKit.svg?style=flat)](https://cocoapods.org/pods/SuperResolutionKit)
 
 Super resolution implementation with CoreML and Keras.
-See my presentaiton: https://github.com/kenmaz/SuperResolutionKit
+See my presentaiton: https://www.youtube.com/watch?v=S73T0TdE9SI
 
 ## Requirements
 
